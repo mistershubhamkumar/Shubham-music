@@ -14,7 +14,7 @@ export default function Header() {
                     <Search />
                 </div>
                 <ModeToggle />
-                <Button size="icon" asChild><Link href="https://wa.me/message/GET4BX5JRTBQK1" target="_blank"><Star className="h-4 w-4"/></Link></Button>
+                <Button size="icon" asChild><Link href="https://wa.me/916260273863?text=🝐꯭𓆩꯭꯭⍣⃪𝗛ᴇʟʟᴏ⃪⍣꯭꯭𓆪꯭🝐⋆⋆⋆❀𝗦ʜᴜʙʜᴀᴍ𝗦ɪʀ❀⋆⋆⋆" target="_blank"><Star className="h-4 w-4"/></Link></Button>
             </div>
         </header>
     )
